@@ -1,0 +1,11 @@
+{
+  "description": "118 is the historical model; 119/120 are two-epoch flow verification only. Replace version numbers with matched fully trained image models before judging methods.",
+  "experiments": [
+    {"version": 118, "source": "raw", "method": "telea"},
+    {"version": 118, "source": "images_removed"},
+    {"version": 119, "source": "raw", "method": "telea"},
+    {"version": 120, "source": "raw", "method": "nearest"},
+    {"version": 120, "source": "raw", "method": "linear"},
+    {"version": 120, "source": "raw", "method": "cubic"}
+  ]
+}

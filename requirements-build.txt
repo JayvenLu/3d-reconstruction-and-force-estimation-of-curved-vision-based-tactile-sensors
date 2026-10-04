@@ -1,0 +1,4 @@
+# Native matching extension; a local C++17 compiler is also required.
+setuptools>=68
+wheel
+pybind11==2.13.6

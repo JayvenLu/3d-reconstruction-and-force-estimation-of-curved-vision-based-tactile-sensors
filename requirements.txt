@@ -1,0 +1,19 @@
+# Python 3.11; reference versions from the source project's recorded environment.
+# Install a matching PyTorch/torchvision and CuPy CUDA stack separately (README).
+numpy==2.2.1
+scipy==1.15.1
+scikit-learn==1.6.1
+pandas==2.2.3
+Pillow>=10,<12
+matplotlib==3.10.0
+opencv-python==4.10.0.84
+tqdm==4.67.1
+pytorch-lightning==2.5.0.post0
+tensorboard==2.19.0
+pyserial==3.5
+trimesh==4.6.3
+pyrender==0.1.45
+PyOpenGL==3.1.0
+pyglet==1.5.31
+open3d==0.19.0
+nvidia-ml-py==13.590.48

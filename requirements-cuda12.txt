@@ -1,0 +1,4 @@
+# Install the CUDA-enabled torch/torchvision wheels first; see README.
+torch==2.5.1
+torchvision==0.20.1
+cupy-cuda12x==13.3.0
